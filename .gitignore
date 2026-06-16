@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Python virtualenv / bytecode
+.env/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Your machine-specific calibration (copy cursor.example.json instead)
+cursor.json
