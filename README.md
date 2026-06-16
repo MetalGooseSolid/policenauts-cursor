@@ -112,8 +112,9 @@ to stop. Add `--debug` to print the mapped fractions and written values.
 ## Configuration
 
 Copy [`cursor.example.json`](cursor.example.json) to `cursor.json` and fill in the
-addresses and calibrated extremes you found above. `cursor.json` is gitignored
-since it's machine- and game-specific.
+addresses and calibrated extremes you found above. The included
+[`cursor.json`](cursor.json) holds the values calibrated for Policenauts on this
+setup — treat it as a worked reference; your addresses and insets may differ.
 
 | Key | Meaning |
 | --- | --- |

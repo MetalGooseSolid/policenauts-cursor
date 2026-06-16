@@ -1,0 +1,25 @@
+{
+  "x_addr": [
+    "14b5f4",
+    "151518"
+  ],
+  "y_addr": [
+    "14b5f8",
+    "15151c"
+  ],
+  "width": 2,
+  "endian": "little",
+  "signed": false,
+  "x_min": 15,
+  "x_max": 304,
+  "y_min": 8,
+  "y_max": 220,
+  "x_invert": false,
+  "y_invert": false,
+  "inset_left": 0.0669,
+  "inset_right": 0.0618,
+  "inset_top": 0.0447,
+  "inset_bottom": 0.0454,
+  "rate_hz": 60,
+  "window_owner": "RetroArch"
+}
